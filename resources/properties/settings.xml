@@ -1,0 +1,58 @@
+<settings>
+
+    <setting propertyKey="@Properties.numberTargets" title="@Strings.NumTargets">
+    	<settingConfig type="numeric" required="true" min="1" max="5" />
+    </setting>
+ 
+    <setting propertyKey="@Properties.nameTarget1" title="@Strings.NameT1">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.latTarget1" title="@Strings.LabelLat">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.lonTarget1" title="@Strings.LabelLon">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+ 
+    <setting propertyKey="@Properties.nameTarget2" title="@Strings.NameT2">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.latTarget2" title="@Strings.LabelLat">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.lonTarget2" title="@Strings.LabelLon">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+ 
+    <setting propertyKey="@Properties.nameTarget3" title="@Strings.NameT3">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.latTarget3" title="@Strings.LabelLat">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.lonTarget3" title="@Strings.LabelLon">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+ 
+    <setting propertyKey="@Properties.nameTarget4" title="@Strings.NameT4">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.latTarget4" title="@Strings.LabelLat">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.lonTarget4" title="@Strings.LabelLon">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+ 
+    <setting propertyKey="@Properties.nameTarget5" title="@Strings.NameT5">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.latTarget5" title="@Strings.LabelLat">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+    <setting propertyKey="@Properties.lonTarget5" title="@Strings.LabelLon">
+    	<settingConfig type="alphaNumeric" />
+    </setting>
+ 
+</settings>
+

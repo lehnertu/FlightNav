@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">FlightNav</string>
+    <string id="NumTargets">Number of Targets</string>
+    <string id="NameT1">Target No. 1</string>
+    <string id="NameT2">Target No. 2</string>
+    <string id="NameT3">Target No. 3</string>
+    <string id="NameT4">Target No. 4</string>
+    <string id="NameT5">Target No. 5</string>
+    <string id="LabelLat">latitude [deg]</string>
+    <string id="LabelLon">longitude [deg]</string>
+</strings>

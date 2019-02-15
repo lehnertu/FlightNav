@@ -1,0 +1,19 @@
+<properties>
+    <property id="numberTargets" type="number">3</property>
+    <property id="nameTarget1" type="string">HOME</property>
+    <property id="latTarget1" type="string">51.040318</property>
+    <property id="lonTarget1" type="string">13.874674</property>
+    <property id="nameTarget2" type="string">HZDR</property>
+    <property id="latTarget2" type="string">51.058634</property>
+    <property id="lonTarget2" type="string">13.949752</property>
+    <property id="nameTarget3" type="string">EDCM</property>
+    <property id="latTarget3" type="string">51.2970</property>
+    <property id="lonTarget3" type="string">14.1275</property>
+    <property id="nameTarget4" type="string">EDAB</property>
+    <property id="latTarget4" type="string">51.1852</property>
+    <property id="lonTarget4" type="string">14.5218</property>
+    <property id="nameTarget5" type="string">KCI</property>
+    <property id="latTarget5" type="string">39.2905</property>
+    <property id="lonTarget5" type="string">-94.7077</property>
+</properties>
+
